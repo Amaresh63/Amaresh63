@@ -1,9 +1,11 @@
 🚀 About Me
-Welcome to my GitHub profile! I'm a passionate and enthusiastic newcomer to the world of programming and technology. 🚀 As a recent graduate of Master of Computer Application, I'm eager to dive into the exciting realm of software development and make meaningful contributions to the tech community.
+
+Welcome to my GitHub profile! I'm a passionate and enthusiastic newcomer to the world of programming and technology. As a recent graduate of Master of Computer Application, I'm eager to dive into the exciting realm of software development and make meaningful contributions to the tech community.
 
 Hi, I'm Amaresh B! 👋
 
 🛠 Skills
+
 Java
 
 MySQL
